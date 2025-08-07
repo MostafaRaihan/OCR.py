@@ -1,1 +1,1 @@
-Optical Caracter Recognition Project
+Optical Character Recognition Project
